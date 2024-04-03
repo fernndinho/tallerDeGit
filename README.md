@@ -1,5 +1,3 @@
-# tallerDeGit
+Taller de Git de la materia 29304SAD
 
-Tdskjdqwjd
-
-holii
+holiiiis
